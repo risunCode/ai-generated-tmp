@@ -11,7 +11,7 @@ hyper-realistic photo of a beautiful female cosplayer portraying Cinderella from
 </details>
 
 
-### Genereted 2
+### Generated 2
 <details>
   <summary><b>Jinxi</b></summary>
   
@@ -33,3 +33,19 @@ fantasy art, moon festival atmosphere, dynamic composition, intricate costume de
 </details>
 
 
+## Generated 3
+<details>
+  <summary><b>XXXXX</b></summary>
+
+```prompt
+anime catgirl cosplay, short dark hair, gray neko ears, dressed in japanese school uniform with navy bow and skirt, 
+
+laying on bed with sheer black pantyhose, feet emphasized, slightly toe-bent through tights, playful and relaxed expression, 
+
+huge teddy bear in background, colorful cluttered room with sports equipment and plush toys, 
+
+low angle full body shot, soft shadows, realistic pantyhose fabric, natural pose, high resolution cosplay photo
+```
+<img width="480" height="480" alt="3" src="https://github.com/user-attachments/assets/25b089ab-69f2-4083-978f-1cd5a452c9fb" />
+
+</details>
