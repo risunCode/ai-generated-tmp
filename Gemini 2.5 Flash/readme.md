@@ -38,56 +38,12 @@ fantasy characters, detailed textures (lace, frills), soft ambient lighting, pla
 ```
 <img width="2048" height="2048" alt="2" src="https://github.com/user-attachments/assets/2c0db907-8bbd-4ef7-91b1-698c4bd4ff70"/>
 <details>
-  
 
-### Generated 3
 
-<details>
-  <summary><b>Jinxi</b></summary>
-
-```prompt
-(masterpiece, best quality, ultra-detailed, cinematic lighting, watercolor fantasy style),
-
-1girl, standing gracefully in midair, long pink-white gradient hair flowing elegantly with twin side tails, hair decorated with sakura flowers and hairpin ornaments,
-
-soft golden eyes, delicate facial features, graceful expression, pale smooth skin, long slender legs, soft blushing cheeks, pointed feet in pink ribboned shoes,
-
-wearing a translucent layered hanfu-inspired pink dress with gold embroidery and red silk accents, fluttering sleeves, high side slit, waist ribbon tied into bow,
-
-floating amidst glowing sakura petals and lanterns, night sky with full bright moon, soft fireworks in distance, background includes traditional wooden screen window, maple trees with glowing red-pink leaves, stylized clouds and mountain silhouettes,
-
-fantasy art, moon festival atmosphere, dynamic composition, intricate costume detail, soft magical lighting
-```
-<details>
-
----
-
-# Generated 4
+### Genereted 3
 <details>
   <summary><b>XXXXX</b></summary>
 
-```prompt
-anime catgirl cosplay, short dark hair, gray neko ears, dressed in japanese school uniform with navy bow and skirt, 
 
-laying on bed with sheer black pantyhose, feet emphasized, slightly toe-bent through tights, playful and relaxed expression, 
 
-huge teddy bear in background, colorful cluttered room with sports equipment and plush toys, 
-
-low angle full body shot, soft shadows, realistic pantyhose fabric, natural pose, high resolution cosplay photo
-```
-<details>
-
----
-
-# Generated 5
-<details>
-  <summary><b>XXXXX</b></summary>
-
-```
-tasteful close-up of gothic maid-inspired fashion, black lace garter belt connecting to thigh-high stockings, sheer frilled overskirt with embroidered trim partially lifted to reveal elegant details, soft natural light, focus on lace, textures, and vintage costume charm, model's face not visible, artistic and refined composition
-```
-<details>
-
----
-## Gemini 2.5 Flash
-
+</details>
