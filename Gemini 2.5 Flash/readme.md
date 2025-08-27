@@ -46,6 +46,7 @@ floating amidst glowing sakura petals and lanterns, night sky with full bright m
 
 fantasy art, moon festival atmosphere, dynamic composition, intricate costume detail, soft magical lighting
 ```
+https://raw.githubusercontent.com/risunCode/ai-generated-tmp/refs/heads/main/Gemini%202.5%20Flash/3.webp
 
 
 # Generated 4
@@ -66,3 +67,4 @@ tasteful close-up of gothic maid-inspired fashion, black lace garter belt connec
 
 
 ## Gemini 2.5 Flash
+
