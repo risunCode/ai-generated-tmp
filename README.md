@@ -1,7 +1,6 @@
 # Check Directory Folders for more.
-# VEO 3 Video Gen
+## VEO 3 Video Gen
 
-# Generated using VEO3 HQ
 
  ## Generated 1
 https://github.com/user-attachments/assets/f80a27a3-955b-4a41-aa19-47625572e9ab
