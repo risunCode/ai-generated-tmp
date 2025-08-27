@@ -14,7 +14,7 @@ girl_in_black: long (golden-blonde hair:1.1), (vivid blue eyes:1.1), pointed elf
 fantasy characters, detailed textures (lace, frills), soft ambient lighting, plain white background.
 // <lora:princessboo_style:0.5> <lora:bowsette_style:0.5>
 ```
-<img width="540" height="540" alt="image_1" src="https://github.com/user-attachments/assets/d9c65c1d-3084-4f3d-8276-c8ae6a96168b" />
+<img src="https://github.com/user-attachments/assets/d9c65c1d-3084-4f3d-8276-c8ae6a96168b" />
 </details>
 
 ## Generated 2
