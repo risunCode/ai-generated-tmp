@@ -10,8 +10,6 @@ hyper-realistic photo of a beautiful female cosplayer portraying Cinderella from
 <img width="2048" height="2048" alt="1" src="https://github.com/user-attachments/assets/423fc120-c431-47c5-ad3f-3e94d3c0cc91" />
 </details>
 
----
-
 ### Generated 2
 
 <details>
@@ -38,10 +36,9 @@ fantasy characters, detailed textures (lace, frills), soft ambient lighting, pla
 
 // <lora:princessboo_style:0.5> <lora:bowsette_style:0.5>
 ```
-<img width="2048" height="2048" alt="2" src="https://github.com/user-attachments/assets/2c0db907-8bbd-4ef7-91b1-698c4bd4ff70" />
+<img width="2048" height="2048" alt="2" src="https://github.com/user-attachments/assets/2c0db907-8bbd-4ef7-91b1-698c4bd4ff70"/>
 <details>
   
---- 
 
 ### Generated 3
 
@@ -93,3 +90,4 @@ tasteful close-up of gothic maid-inspired fashion, black lace garter belt connec
 
 ---
 ## Gemini 2.5 Flash
+
