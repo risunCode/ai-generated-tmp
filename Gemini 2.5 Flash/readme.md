@@ -7,8 +7,8 @@
 hyper-realistic photo of a beautiful female cosplayer portraying Cinderella from Goddess of Victory: Nikke, dressed in a translucent silver and white fantasy gown with intricate lace embroidery and sheer puff sleeves, long silver hair with soft waves, large white bow and crown accessory, sitting elegantly indoors on a chair, holding a decorative white banner with the text “Risun” in stylish font, soft pastel lighting, subtle makeup with striking blue contact lenses, studio background, high fashion cosplay photo  
 <lora:cosplayPhotoVibe_v1.0:0.75> <lora:realCosplayStyle_v1.3:0.6>
 ```
-</details>
 <img width="2048" height="2048" alt="1" src="https://github.com/user-attachments/assets/423fc120-c431-47c5-ad3f-3e94d3c0cc91" />
+</details>
 
 ---
 
@@ -37,9 +37,9 @@ fantasy characters, detailed textures (lace, frills), soft ambient lighting, pla
 
 // <lora:princessboo_style:0.5> <lora:bowsette_style:0.5>
 ```
-<details>
 <img width="2048" height="2048" alt="2" src="https://github.com/user-attachments/assets/2c0db907-8bbd-4ef7-91b1-698c4bd4ff70" />
-
+<details>
+  
 --- 
 
 ### Generated 3
@@ -92,5 +92,6 @@ tasteful close-up of gothic maid-inspired fashion, black lace garter belt connec
 ---
 
 ## Gemini 2.5 Flash
+
 
 
