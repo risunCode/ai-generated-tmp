@@ -13,6 +13,7 @@ hyper-realistic photo of a beautiful female cosplayer portraying Cinderella from
 ---
 
 ### Generated 2
+
 <details>
   <summary><b>Boosette</b></summary>
 
@@ -43,6 +44,7 @@ fantasy characters, detailed textures (lace, frills), soft ambient lighting, pla
 --- 
 
 ### Generated 3
+
 <details>
   <summary><b>Jinxi</b></summary>
 
@@ -90,8 +92,4 @@ tasteful close-up of gothic maid-inspired fashion, black lace garter belt connec
 <details>
 
 ---
-
 ## Gemini 2.5 Flash
-
-
-
